@@ -1,0 +1,8 @@
+torch
+torch-geometric
+torch-scatter
+torch-sparse
+pandas
+numpy
+scikit-learn
+streamlit
